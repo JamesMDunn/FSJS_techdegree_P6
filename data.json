@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "FSJS_techdegree_p1",
+      "description": "test",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "#",
+      "github_link": "https://github.com/Bosris/FSJS_techdegree_p1",
+      "image_urls": ["test", "test two"]
+    },
+    {
+      "id": 1,
+      "project_name": "FSJS_techdegree_P2",
+      "description": "pagination",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "testing",
+      "github_link": "https://github.com/Bosris/FSJS_techdegree_P2",
+      "image_urls": ["test", "test two"]
+    }
+  ]
+}
