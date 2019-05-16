@@ -2,21 +2,68 @@
   "projects": [
     {
       "id": 0,
-      "project_name": "FSJS_techdegree_p1",
+      "project_name": "Random Quote Generator",
       "description": "test",
       "technologies": ["JavaScript", "HTML", "CSS"],
-      "live_link": "#",
+      "live_link": "https://bosris.github.io/FSJS_techdegree_p1/",
       "github_link": "https://github.com/Bosris/FSJS_techdegree_p1",
-      "image_urls": ["test", "test two"]
+      "image_urls": [
+        "/images/landing-p1.jpg",
+        "/images/landscape-p1.jpg",
+        "/images/landscape2-p1.jpg"
+      ]
     },
     {
       "id": 1,
-      "project_name": "FSJS_techdegree_P2",
-      "description": "pagination",
+      "project_name": "List Pagination and Filtering",
+      "description": "Pagination",
       "technologies": ["JavaScript", "HTML", "CSS"],
-      "live_link": "testing",
+      "live_link": "https://bosris.github.io/FSJS_techdegree_P2/",
       "github_link": "https://github.com/Bosris/FSJS_techdegree_P2",
-      "image_urls": ["test", "test two"]
+      "image_urls": [
+        "/images/landing-p2.jpg",
+        "/images/landscape-p2.jpg",
+        "/images/landscape2-p2.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "pagination",
+      "technologies": ["JavaScript", "HTML", "CSS", "jQuery"],
+      "live_link": "https://bosris.github.io/FSJS_techdegree_P3/",
+      "github_link": "https://github.com/Bosris/FSJS_techdegree_P3/",
+      "image_urls": [
+        "/images/landing-p3.jpg",
+        "/images/landscape-p3.jpg",
+        "/images/landscape2-p3.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "project_name": "Phrase Hunter",
+      "description": "OOP Game Show App",
+      "technologies": ["JavaScript", "HTML", "CSS", "OOP"],
+      "live_link": "https://bosris.github.io/FSJS_techdegree_P4/",
+      "github_link": "https://github.com/Bosris/FSJS_techdegree_P4",
+      "image_urls": [
+        "/images/landing-p4.jpg",
+        "/images/landscape-p4.jpg",
+        "/images/landscape2-p4.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "Public API Requests",
+      "description": "API Requests",
+      "technologies": ["JavaScript", "HTML", "CSS", "Ajax", "Fetch"],
+      "live_link": "https://bosris.github.io/FSJS_techdegree_P5/",
+      "github_link": "https://github.com/Bosris/FSJS_techdegree_P5",
+      "image_urls": [
+        "/images/landing-p5.jpg",
+        "/images/landscape-p5.jpg",
+        "/images/landscape2-p5.jpg"
+      ]
     }
   ]
 }
