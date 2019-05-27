@@ -2,6 +2,7 @@ const express = require("express");
 const app = express();
 const data = require("./data.json");
 const projects = data.projects;
+const PORT = process.env.PORT || 3000;
 
 app.use(express.static("public"));
 app.set("view engine", "pug");
@@ -20,4 +21,4 @@ app.get("/project/:id", (req, res) => {
   res.render("project", projects[id]);
 });
 
-app.listen(3000);
+app.listen(PORT);
