@@ -64,6 +64,19 @@
         "/images/landscape-p5.jpg",
         "/images/landscape2-p5.jpg"
       ]
+    },
+    {
+      "id": 5,
+      "project_name": "React Gallery App",
+      "description": "API Requests with React",
+      "technologies": ["JavaScript", "HTML", "CSS", "Ajax", "Fetch"],
+      "live_link": "https://bosris.github.io/FSJS_techdegree_P5/",
+      "github_link": "https://github.com/Bosris/FSJS_techdegree_P7",
+      "image_urls": [
+        "/images/landing-p7.jpg",
+        "/images/landscape-p7.jpg",
+        "/images/landscape2-p7.jpg"
+      ]
     }
   ]
 }
