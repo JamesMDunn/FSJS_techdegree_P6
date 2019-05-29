@@ -3,7 +3,7 @@
     {
       "id": 0,
       "project_name": "Random Quote Generator",
-      "description": "test",
+      "description": "Gathers a random quote and citation's it based on the source.",
       "technologies": ["JavaScript", "HTML", "CSS"],
       "live_link": "https://bosris.github.io/FSJS_techdegree_p1/",
       "github_link": "https://github.com/Bosris/FSJS_techdegree_p1",
@@ -16,7 +16,7 @@
     {
       "id": 1,
       "project_name": "List Pagination and Filtering",
-      "description": "Pagination",
+      "description": "Gathers a list of students. Then creates pages of 10, to filter through the list of students.",
       "technologies": ["JavaScript", "HTML", "CSS"],
       "live_link": "https://bosris.github.io/FSJS_techdegree_P2/",
       "github_link": "https://github.com/Bosris/FSJS_techdegree_P2",
@@ -29,7 +29,7 @@
     {
       "id": 2,
       "project_name": "Interactive Form",
-      "description": "pagination",
+      "description": "Interactive form that has validiation through vanilla javascript.",
       "technologies": ["JavaScript", "HTML", "CSS", "jQuery"],
       "live_link": "https://bosris.github.io/FSJS_techdegree_P3/",
       "github_link": "https://github.com/Bosris/FSJS_techdegree_P3/",
@@ -42,7 +42,7 @@
     {
       "id": 3,
       "project_name": "Phrase Hunter",
-      "description": "OOP Game Show App",
+      "description": "Creates a random phrase for the user to try to guess using the on-screen keyboard or your very own keyboard. If you guess every letter without losing all lives, you win. Also it has sound!",
       "technologies": ["JavaScript", "HTML", "CSS", "OOP"],
       "live_link": "https://bosris.github.io/FSJS_techdegree_P4/",
       "github_link": "https://github.com/Bosris/FSJS_techdegree_P4",
@@ -55,8 +55,8 @@
     {
       "id": 4,
       "project_name": "Public API Requests",
-      "description": "API Requests",
-      "technologies": ["JavaScript", "HTML", "CSS", "Ajax", "Fetch"],
+      "description": "Fetches 24 random people data, creates a view to showcase all people. Then when a person view is clicked, a modal view opens, to display more information of the person.",
+      "technologies": ["JavaScript", "HTML", "CSS", "Ajax", "Fetch", "JSON"],
       "live_link": "https://bosris.github.io/FSJS_techdegree_P5/",
       "github_link": "https://github.com/Bosris/FSJS_techdegree_P5",
       "image_urls": [
@@ -68,8 +68,8 @@
     {
       "id": 5,
       "project_name": "React Gallery App",
-      "description": "API Requests with React",
-      "technologies": ["JavaScript", "HTML", "CSS", "Ajax", "Fetch"],
+      "description": "A React Gallery App that uses an API to gather photos of any keyword you search.",
+      "technologies": ["JavaScript", "HTML", "CSS", "React.js", "Fetch"],
       "live_link": "https://bosris.github.io/FSJS_techdegree_P5/",
       "github_link": "https://github.com/Bosris/FSJS_techdegree_P7",
       "image_urls": [
