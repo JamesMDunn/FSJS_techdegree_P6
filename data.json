@@ -70,7 +70,7 @@
       "project_name": "React Gallery App",
       "description": "A React Gallery App that uses an API to gather photos of any keyword you search.",
       "technologies": ["JavaScript", "HTML", "CSS", "React.js", "Fetch"],
-      "live_link": "https://bosris.github.io/FSJS_techdegree_P5/",
+      "live_link": "https://bosris.github.io/FSJS_techdegree_P7/",
       "github_link": "https://github.com/Bosris/FSJS_techdegree_P7",
       "image_urls": [
         "/images/landing-p7.jpg",
